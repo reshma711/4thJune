@@ -1,0 +1,22 @@
+2022-10-09 18:47:18,965  INFO [main] SauceDemoMavenProject:55 - Browser is opened
+2022-10-09 18:47:22,853  INFO [main] SauceDemoMavenProject:59 - url is opened
+2022-10-09 18:47:23,955  INFO [main] SauceDemoMavenProject:66 - click on login button
+2022-10-09 18:47:28,204  INFO [main] SauceDemoMavenProject:55 - Browser is opened
+2022-10-09 18:47:30,958  INFO [main] SauceDemoMavenProject:59 - url is opened
+2022-10-09 18:47:32,152  INFO [main] SauceDemoMavenProject:66 - click on login button
+2022-10-09 18:47:37,376  INFO [main] SauceDemoMavenProject:55 - Browser is opened
+2022-10-09 18:47:40,329  INFO [main] SauceDemoMavenProject:59 - url is opened
+2022-10-09 18:47:41,430  INFO [main] SauceDemoMavenProject:66 - click on login button
+2022-10-09 18:47:41,441  INFO [main] SauceDemoMavenProject:20 - apply validation
+2022-10-09 18:47:44,675  INFO [main] SauceDemoMavenProject:55 - Browser is opened
+2022-10-09 18:47:47,483  INFO [main] SauceDemoMavenProject:59 - url is opened
+2022-10-09 18:47:48,346  INFO [main] SauceDemoMavenProject:66 - click on login button
+2022-10-09 18:47:49,381  INFO [main] SauceDemoMavenProject:31 - click on addtocart
+2022-10-09 18:47:53,056  INFO [main] SauceDemoMavenProject:55 - Browser is opened
+2022-10-09 18:47:56,190  INFO [main] SauceDemoMavenProject:59 - url is opened
+2022-10-09 18:47:57,085  INFO [main] SauceDemoMavenProject:66 - click on login button
+2022-10-09 18:47:58,666  INFO [main] SauceDemoMavenProject:22 - click on all product
+2022-10-09 18:48:03,154  INFO [main] SauceDemoMavenProject:55 - Browser is opened
+2022-10-09 18:48:05,965  INFO [main] SauceDemoMavenProject:59 - url is opened
+2022-10-09 18:48:06,840  INFO [main] SauceDemoMavenProject:66 - click on login button
+2022-10-09 18:48:07,494  INFO [main] SauceDemoMavenProject:31 - verification of filter
